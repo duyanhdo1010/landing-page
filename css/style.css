@@ -99,6 +99,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0 5%;
 }
 
 .info .info-header-text {
@@ -190,8 +191,6 @@ body {
     font-weight: bold;
 }
 
-
-
 .footer {
     background-color: #1f2937;
     color: #E5E7EB;
@@ -199,3 +198,4 @@ body {
     justify-content: center;
     padding: 30px 0;
 }
+
